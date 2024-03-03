@@ -1,3 +1,3 @@
-Untuk tugas mata kuliah robotika dan sistem cerdas kelas TK-44-G7
+Untuk tugas mata kuliah robotika 
 
 Muhammad Sidqi Nabhan 1103200179
