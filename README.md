@@ -1,3 +1,1 @@
-Untuk tugas mata kuliah robotika 
-
-Muhammad Sidqi Nabhan 1103200179
+PC saya kurang memadai untuk mendemokan beberapa tugas , jadi saya hanya bisa merangkumnya saja 
